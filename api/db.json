@@ -1,0 +1,92 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": "1",
+      "name": "Asmita Shilpakar",
+      "age": "24",
+      "address": "Kalimati, Kathmandu",
+      "email": "asmita@gmail.com",
+      "designation": "President",
+      "password": "asmita123",
+      "attendance": 8
+    },
+    {
+      "id": "2",
+      "name": "Tribibek Shrestha",
+      "age": "21",
+      "address": "Nakhipot, Lalitpur",
+      "email": "tribibek@gmail.com",
+      "designation": "Secretary",
+      "password": "tribibek123",
+      "attendance": 14
+    },
+    {
+      "id": "75db",
+      "name": "Nandita Khatri",
+      "age": "24",
+      "address": "Tute Pani, Lalitpur",
+      "email": "nandita@gmail.com",
+      "designation": "Vice President",
+      "password": "nandita123",
+      "attendance": 7
+    },
+    {
+      "id": "c4e0",
+      "name": "Shreejana Magar",
+      "age": "28",
+      "address": "Bhainsepati, Lalitpur",
+      "email": "shreejana@gmail.com",
+      "designation": "Immidiate Past President",
+      "password": "shreejana123",
+      "attendance": 0
+    },
+    {
+      "id": "bd93",
+      "name": "Diya Maharjan",
+      "age": "20",
+      "address": "Kirtipur",
+      "email": "diya@gmail.com",
+      "designation": "Membership Chair",
+      "password": "diya123",
+      "attendance": 4
+    },
+    {
+      "id": "ae4b",
+      "name": "Shyam Thapa",
+      "age": "43",
+      "address": "Imadol",
+      "email": "shyam@gmail.com",
+      "designation": "General Member",
+      "password": "shyam123",
+      "attendance": 1
+    }
+  ],
+  "attendance": []
+}
